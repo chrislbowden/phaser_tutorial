@@ -10,3 +10,5 @@ python -m SimpleHTTPServer
 
 http://localhost:8000/star_collector.html
 
+
+![Screenshot of Star Collector game](https://github.com/chrislbowden/phaser_tutorial/blob/master/star_collector.png)
